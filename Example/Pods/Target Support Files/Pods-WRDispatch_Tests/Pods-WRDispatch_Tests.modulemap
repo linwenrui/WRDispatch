@@ -1,0 +1,6 @@
+framework module Pods_WRDispatch_Tests {
+  umbrella header "Pods-WRDispatch_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

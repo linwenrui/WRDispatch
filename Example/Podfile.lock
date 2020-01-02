@@ -1,0 +1,16 @@
+PODS:
+  - WRDispatch (0.1.0)
+
+DEPENDENCIES:
+  - WRDispatch (from `../`)
+
+EXTERNAL SOURCES:
+  WRDispatch:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WRDispatch: c99fd3760fafa1360a380333d29c97798c354523
+
+PODFILE CHECKSUM: acedd7cd75a05b649ac6c07e5db7ea48266ada53
+
+COCOAPODS: 1.8.3
